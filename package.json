@@ -1,5 +1,5 @@
 {
-  "name": "imageshrink",
+  "name": "super-image-shrink",
   "version": "1.0.0",
   "description": "reduce image size of your project by 70%",
   "main": "index.js",
