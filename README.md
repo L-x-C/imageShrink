@@ -26,8 +26,9 @@ npm run shrink
 ```
 
 
-## before
+## Result
+before
+![before](https://github.com/L-x-C/imageShrink/blob/master/before.png)
 
-
-## after
-
+after
+![after](https://github.com/L-x-C/imageShrink/blob/master/after.png)
