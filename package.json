@@ -1,0 +1,29 @@
+{
+  "name": "imageshrink",
+  "version": "1.0.0",
+  "description": "reduce image size of your project by 70%",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-x-C/imageShrink.git"
+  },
+  "keywords": [
+    "image",
+    "shrink",
+    "reduce"
+  ],
+  "author": "lxc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-x-C/imageShrink/issues"
+  },
+  "homepage": "https://github.com/L-x-C/imageShrink#readme",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^8.0.0"
+  }
+}
