@@ -59,6 +59,7 @@ function imgShrink(dir) {
 
 
 exports.imageShrink = () => {
+  console.log('pp', process.argv)
   imgShrink('./sb/images').then(res => {
     rmdir('./_imageShrink', () => {
       console.log('imageShrink done')
