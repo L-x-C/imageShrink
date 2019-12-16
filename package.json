@@ -1,7 +1,7 @@
 {
   "name": "super-image-shrink",
-  "version": "1.0.0",
-  "description": "reduce image size of your project by 70%",
+  "version": "1.0.1",
+  "description": "reduce image size of your project by 70% seamlessly",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "reduce"
   ],
   "author": "lxc",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/L-x-C/imageShrink/issues"
   },
