@@ -1,3 +1,6 @@
+
+[![npm version](https://badge.fury.io/js/super-image-shrink.svg)](//npmjs.com/package/super-image-shrink)
+
 # imageShrink
 reduce image size of your project by 60% seamlessly
 
